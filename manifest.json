@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "dynamic-kanerva-machines",
+  "versions": [
+    {
+      "commit": "49e7a0d98c45d103fd4a71a007550f2f17c12e88",
+      "parsed_at": "2026-11-06T08:10:14.753038+00:00",
+      "filetree": "filetree/49e7a0d98c45d103fd4a71a007550f2f17c12e88.nq.gz",
+      "blobs": [
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/db177d4ac70f76c2172ce65ca33c830d6cbd3ac5.nq.gz",
+        "blob/5d0218d90aaf3a11421aab3ebc5eb042ccf7121a.nq.gz",
+        "blob/a4be39691ca8b1302d923e04d6ae24dd110ecb95.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
